@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>institution</key>
+	<string>E1F95860487F40BD944DAA60126D5E56</string>
+	<key>bundle</key>
+	<string>com.jiedoor.pe.zhtz</string>
+	<key>name</key>
+	<string>中豁投资</string>
+	<key>gtAppId</key>
+	<string>4DLiNvyBVm5o3Jh0j5yOI5</string>
+	<key>gtAppKey</key>
+	<string>JJzXGyskuQ6FEq2g61sti1</string>
+	<key>gtAppSecret</key>
+	<string>5tGcWEQ83R7uDnAC9GSWp2</string>
+</dict>
+</plist>
